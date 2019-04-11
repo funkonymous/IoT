@@ -1,0 +1,5 @@
+PRE	5.3
+HUM	5
+TEM	23.1
+AMB	2.01
+PRO	1.1
